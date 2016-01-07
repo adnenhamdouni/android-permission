@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Permissions</string>
+
+    <string name="permission_contacts_rationale">Contacts permissions are needed
+        to demonstrate access.</string>
+
+    <string name="ok">ok</string>
+
+    <string name="permision_available_contacts">Contacts Permissions have been granted.
+        Contacts screen can now be opened.</string>
+
+    <string name="permissions_not_granted">Permissions were not granted.</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
